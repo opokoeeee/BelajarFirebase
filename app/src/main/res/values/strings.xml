@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Belajar Firebase</string>
+    <string name="nama">Nama Anda</string>
+    <string name="no_hp">No HP Anda</string>
+    <string name="usia">Usia Anda</string>
+    <string name="kota">Kota Lahir Anda</string>
+    <string name="simpan">Simpan</string>
+    <string name="judul">Input Data ke Firebase</string>
+    <string name="update_data">Update Data Anggota</string>
+    <string name="update">Ubah</string>
+    <string name="judul_tambah_detil">Tambah Data Anggota</string>
+    <string name="detil_alamat">Alamat Lengkap</string>
+    <string name="detil_tombol_alamat">Tambah Data</string>
+    <string name="item_alamat">Alamat</string>
+    <string name="item_kode">Kode Pos</string>
+    <string name="anggota_nama">Nama</string>
+    <string name="anggota_kota">Kota Lahir</string>
+    <string name="anggota_usia">Usia</string>
+    <string name="anggota_hp">No Hp</string>
+    <string name="icon">Icon</string>
+
+</resources>
